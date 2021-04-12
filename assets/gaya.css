@@ -1,1 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400;1,500;1,600&display=swap');
+body {
+    background: linear-gradient(0deg, #1F1D2B, #1F1D2B);
+}
 
+#navigasi {
+    font-family: Poppins;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-item {
+    margin-left: 30px;
+}
